@@ -23,7 +23,7 @@ export default function ContactPage(){
             
             <label className="block mb-4">
                 Query:<br />
-                <textarea name="query" className="mt-1 block w-full border border-gray-300 rounded p-2" placeholder="Enter your query" rows="4" required></textarea>
+                <textarea name="query" className="mt-1 block w-full border border-gray-300 rounded p-2" placeholder="Enter your query" rows={4 as number} required></textarea>
             </label>
 
             <button type="submit" className="bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600 transition">Submit</button>
