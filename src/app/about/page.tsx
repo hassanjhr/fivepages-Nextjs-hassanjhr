@@ -35,7 +35,7 @@ Our mission is to empower businesses by providing top-quality services that enha
 What We Offer
 Web Development: We create visually appealing, user-friendly websites that are not only functional but also optimized for performance. Our focus is on providing seamless experiences for your visitors.
 
-SEO: Our search engine optimization strategies are designed to improve your website's visibility on search engines. We implement best practices to attract organic traffic and help you rank higher in search results.
+SEO: Our search engine optimization strategies are designed to improve your website visibility on search engines. We implement best practices to attract organic traffic and help you rank higher in search results.
 
 Digital Marketing: We develop comprehensive digital marketing strategies that engage your target audience, increase brand awareness, and drive conversions. From social media marketing to email campaigns, we cover all aspects to ensure your business thrives.
 
@@ -43,7 +43,7 @@ Why Choose Us?
 Client-Centric Approach: Your success is our priority. We take the time to understand your needs and tailor our services accordingly.
 Experienced Team: Our skilled professionals bring a wealth of knowledge and experience to every project, ensuring high-quality results.
 Integrity and Transparency: We believe in honest communication and transparency throughout the process, keeping you informed every step of the way.
-Join us as we embark on a journey to elevate your business. Together, we can achieve remarkable results and create a strong digital presence that stands out in today's competitive market.
+Join us as we embark on a journey to elevate your business. Together, we can achieve remarkable results and create a strong digital presence that stands out in today competitive market.
             </p>
             <p className="mt-4 text-sky-950">
                 Feel free to explore our Services!

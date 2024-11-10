@@ -1,5 +1,5 @@
 
-import Navbar from "./components/navbar";
+
 import Link from "next/link";
 import Image from "next/image"
 import digi from "./images/digi.png"

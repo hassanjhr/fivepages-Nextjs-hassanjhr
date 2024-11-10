@@ -1,6 +1,4 @@
 import Link from "next/link"
-import Image from "next/image"
-import digi from "../images/digi.png"
 
 export default function Navbar() {
     return (
